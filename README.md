@@ -1,2 +1,1 @@
-# flint-marketing-website
-Hello, world!
+Site construction in progress...
